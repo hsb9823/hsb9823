@@ -1,9 +1,9 @@
 <header>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=SBeom's&nbsp;github&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SBeom's&nbsp;github&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" />  
 </header>
 
 <body align="center">
-  <p align="center"> 🛠 Tech Stack 🛠 </p>
+  <p align="center"> Hello i'm  </p>
   <br>
   <p align="center"> 🛠 Tech Stack 🛠 </p>
   <div align="center">
