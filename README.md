@@ -1,9 +1,9 @@
 <header>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1b9deb&height=120&section=header&text=SBeom's&nbsp;github&fontColor=FFFFFF&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" />  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=376ed1&height=120&section=header&text=SBeom's&nbsp;github&fontColor=FFFFFF&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" />  
 </header>
 
 <body align="center">
-  <p align="center"> Hello i'm  </p>
+  <p align="center"> 안녕하세요 임베디드 펌웨어 개발자를 희망하는 취준생입니다. </p>
   <br>
   <p align="center"> 🛠 Tech Stack 🛠 </p>
   <div align="center">
@@ -18,5 +18,5 @@
 </body>
 
 <footer>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1b9deb&height=120&section=footer&text=텍스트&fontSize=텍스트크기&fontColor=FFFFFF", width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=376ed1&height=120&section=footer&text=텍스트&fontSize=텍스트크기&fontColor=FFFFFF", width="100%" />
 </footer>
