@@ -1,5 +1,5 @@
 <header>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SBeom's&nbsp;github&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" />  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=28dde5&height=120&section=header&text=SBeom's&nbsp;github&fontColor=FFFFFF&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" />  
 </header>
 
 <body align="center">
@@ -18,5 +18,5 @@
 </body>
 
 <footer>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=텍스트&fontSize=텍스트크기", width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=28dde5&height=120&section=footer&text=텍스트&fontSize=텍스트크기&fontColor=FFFFFF", width="100%" />
 </footer>
