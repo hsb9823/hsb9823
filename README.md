@@ -17,9 +17,3 @@
 </div>
 
 
-
-
-
-<footer>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=376ed1&height=50&section=footer&text=텍스트&fontSize=텍스트크기&fontColor=FFFFFF", width="100%" />
-</footer>
