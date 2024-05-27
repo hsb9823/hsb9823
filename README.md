@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=white"/>&nbsp
 
   </div>
-  <p align="center">Hello</p>
+  <p align="center"></p>
 </body>
 
 <footer>
