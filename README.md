@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=376ed1&height=110&section=header&text=SBeom's&nbsp;github&fontColor=FFFFFF&fontSize=40&fontAlignY=50&animation=fadeIn" width="100%" />  
 <br>
 
-# 안녕하세요 임베디드 펌웨어 개발자를 희망하는 취준생입니다.  
+## 안녕하세요 임베디드 펌웨어 개발자를 희망하는 취준생입니다.  
 
 <br>
 <div>
