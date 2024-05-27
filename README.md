@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
-<p align="center", style="font-size:13">ewfwef</p> 
 
 
 
